@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" enable-background="new 0 0 90 90" height="600px" version="1.1" viewBox="0 0 90 90" width="488px" x="0px" xml:space="preserve" y="0px">
-	<defs/>
-	<path clip-rule="evenodd" d="M 60.0,13.0 L 20.0,13.0 L 20.0,77.0 L 72.0,77.0 L 72.0,25.0 L 60.0,13.0 M 68.0,73.0 L 24.0,73.0 L 24.0,17.0 L 57.0,17.0 L 57.0,28.0 L 68.0,28.0 L 68.0,73.0" fill-rule="evenodd"/>
-	<path clip-rule="evenodd" d="M 33.0,45.0 L 59.0,45.0 L 59.0,49.0 L 33.0,49.0 L 33.0,45.0" fill-rule="evenodd" height="4" width="26" x="33" y="45"/>
-	<path clip-rule="evenodd" d="M 33.0,33.0 L 59.0,33.0 L 59.0,37.0 L 33.0,37.0 L 33.0,33.0" fill-rule="evenodd" height="4" width="26" x="33" y="33"/>
-	<path clip-rule="evenodd" d="M 33.0,57.0 L 59.0,57.0 L 59.0,61.0 L 33.0,61.0 L 33.0,57.0" fill-rule="evenodd" height="4" width="26" x="33" y="57"/>
-</svg>
