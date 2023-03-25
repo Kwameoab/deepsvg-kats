@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="468px" version="1.1" viewBox="0 0 100 78" width="600px" x="0px" y="0px">
+	<defs/>
+	<path d="M 21.686747,0.0 L 21.686747,12.4406061 L 99.6153033,12.4406061 L 99.6153033,0.0 L 21.686747,0.0 M 0.0,0.0 L 0.0,12.4406061 L 12.6827309,12.4406061 L 12.6827309,0.0 L 0.0,0.0" fill="#000000" sketch:type="MSShapeGroup"/>
+	<path d="M 22.0,65.0 L 99.6168421,65.0 L 99.6168421,77.6333333 L 22.0,77.6333333 L 22.0,65.0" fill="#000000" height="12.6333333" sketch:type="MSShapeGroup" width="77.6168421" x="22" y="65"/>
+	<path d="M 0.0,65.0 L 12.632,65.0 L 12.632,77.632 L 0.0,77.632 L 0.0,65.0" fill="#000000" height="12.632" sketch:type="MSShapeGroup" width="12.632" x="0" y="65"/>
+	<path d="M 22.0,43.0 L 99.6168421,43.0 L 99.6168421,55.633333300000004 L 22.0,55.633333300000004 L 22.0,43.0" fill="#000000" height="12.6333333" sketch:type="MSShapeGroup" width="77.6168421" x="22" y="43"/>
+	<path d="M 0.0,43.0 L 12.632,43.0 L 12.632,55.632 L 0.0,55.632 L 0.0,43.0" fill="#000000" height="12.632" sketch:type="MSShapeGroup" width="12.632" x="0" y="43"/>
+	<path d="M 22.0,22.0 L 99.6168421,22.0 L 99.6168421,34.632 L 22.0,34.632 L 22.0,22.0" fill="#000000" height="12.632" sketch:type="MSShapeGroup" width="77.6168421" x="22" y="22"/>
+	<path d="M 0.0,22.0 L 12.632,22.0 L 12.632,34.632 L 0.0,34.632 L 0.0,22.0" fill="#000000" height="12.632" sketch:type="MSShapeGroup" width="12.632" x="0" y="22"/>
+</svg>

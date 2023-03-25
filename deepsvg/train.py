@@ -17,7 +17,8 @@ utils.set_seed(42)
 
 def train(cfg: _Config, model_name, experiment_name="", log_dir="./logs", debug=False, resume=False):
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-
+    
+    print(device)
     print("Parameters")
     cfg.print_params()
 

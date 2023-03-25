@@ -106,6 +106,7 @@ class SVGTensorDataset(torch.utils.data.Dataset):
     def _load_tensor(self, icon_id):
         with open(os.path.join(self.data_dir, f"{icon_id}.pkl"), "rb") as f:
             data = pickle.load(f)
+        print(data)
         return data["tensors"], data["fillings"]
 
     def __len__(self):
@@ -168,7 +169,7 @@ class SVGTensorDataset(torch.utils.data.Dataset):
             model_args = self.model_args
 
         pad_len = max(self.MAX_NUM_GROUPS - len(t_sep), 0)
-
+        # print(f"==== {type(t_sep)} \n {t_sep}")
         t_sep.extend([torch.empty(0, 14)] * pad_len)
         fillings.extend([0] * pad_len)
 

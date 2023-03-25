@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" enable-background="new -2 -3 32 32" height="600px" overflow="visible" version="1.1" viewBox="-2 -3 32 32" width="600px" x="0px" xml:space="preserve" y="0px">
+	<defs/>
+	<path d="M 26.0,21.0 C 26.0,23.762 23.762,26.0 21.0,26.0 L 6.0,26.0 C 3.238,26.0 1.0,23.762 1.0,21.0 L 1.0,6.0 C 1.0,3.238 3.238,1.0 6.0,1.0 L 21.0,1.0 C 23.762,1.0 26.0,3.238 26.0,6.0 L 26.0,21.0" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
+	<path d="M 22.395,13.006 L 14.0,4.611 L 14.0,11.0 L 4.0,11.0 L 4.0,16.0 L 14.0,16.0 L 14.0,21.389 L 22.395,13.006" points="22.395,13.006 14,4.611 14,11 4,11 4,16 14,16 14,21.389 "/>
+</svg>

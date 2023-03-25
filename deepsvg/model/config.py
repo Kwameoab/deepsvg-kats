@@ -38,8 +38,8 @@ class _DefaultConfig:
 
         self.dim_z = 256                 # Latent vector dimensionality
 
-        self.max_num_groups = 8          # Number of paths (N_P)
-        self.max_seq_len = 30            # Number of commands (N_C)
+        self.max_num_groups = 25          # Number of paths (N_P)
+        self.max_seq_len = 50            # Number of commands (N_C)
         self.max_total_len = self.max_num_groups * self.max_seq_len  # Concatenated sequence length for baselines
 
         self.num_groups_proposal = self.max_num_groups  # Number of predicted paths, default: N_P

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" enable-background="new 0 0 16 16" height="600px" version="1.1" viewBox="0 0 16 16" width="562px" x="0px" xml:space="preserve" y="0px">
+	<defs/>
+	<path d="M 2.0,2.0 L 2.0,13.0 L 6.171,13.0 L 8.0,14.828 L 9.828,13.0 L 14.0,13.0 L 14.0,2.0 L 2.0,2.0 M 13.0,12.0 L 10.828,12.0 L 5.171,12.0 L 3.0,12.0 L 3.0,3.0 L 13.0,3.0 L 13.0,12.0"/>
+	<path d="M 4.0,4.0 L 12.0,4.0 L 12.0,5.0 L 4.0,5.0 L 4.0,4.0" height="1" width="8" x="4" y="4"/>
+	<path d="M 4.0,6.0 L 12.0,6.0 L 12.0,7.0 L 4.0,7.0 L 4.0,6.0" height="1" width="8" x="4" y="6"/>
+	<path d="M 4.0,8.0 L 12.0,8.0 L 12.0,9.0 L 4.0,9.0 L 4.0,8.0" height="1" width="8" x="4" y="8"/>
+	<path d="M 4.0,10.0 L 12.0,10.0 L 12.0,11.0 L 4.0,11.0 L 4.0,10.0" height="1" width="8" x="4" y="10"/>
+</svg>
