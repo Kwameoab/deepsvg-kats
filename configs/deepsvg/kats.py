@@ -21,11 +21,11 @@ class Config(Config):
 
         # Optimization
         self.learning_rate = 1e-3 * num_gpus
-        self.batch_size = 32
+        self.batch_size = 128
         self.grad_clip = 1.0
 
         self.max_num_groups = 25 # Nubmer of paths (N_P)
-        self.max_seq_len = 40 # Max allowed commands per path (N_C)
+        self.max_seq_len = 100 # Max allowed commands per path (N_C)
 
         # Concatenated sequence length for baselines
         self.max_total_len = self.max_num_groups * self.max_seq_len 
